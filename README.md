@@ -1,0 +1,10 @@
+- 👋 Hi, I’m @boomer-martin
+- 👀 I’m interested in Gaming and simulation applications, cloud infrastructure, FullStack development, OpenStack, and Big Data
+- 🌱 I’m currently learning Containers and Container Deployments
+- Technical experience
+- Languages and Technologies
+- YAML, Python, C, C++, C#, Java, Javascript, ExtJS, AngularJS, HTML5, XML, PHP, Ruby, SQL, MySQL, PostgreSQL, NoSQL, MongoDB
+- Software prototyping, debugging software applications, developing mobile applications, 3D game and simulation development using Unity 3D and Unreal 4,  front-end, user interface/user experience (UI/UX), server-side scripting, database management, API integration
+- Docker, Kubernetes, Helm charts, Elasticstack, Endgame, Arkime, Suricata, Django, Apache, Nginx, Unicorn, Cuckoo, Visual Studio, MicrosoftSQL server, Oracle, Eclipse, Redhat, - NoMachine, QEMU, RedHat Package Manager, Android Studio, .NET, Rest API, VMware, Git, Gitlab, Github, Redmine, Taiga, Selenium, JIRA, Slack, Discord, Adobe Photoshop, GNOME editor
+- AWS Business Professional Certified, Scaled Agile Framework (SAFe) Certified
+- Designed and created a handheld application modeled after Tetris in Eclipse
